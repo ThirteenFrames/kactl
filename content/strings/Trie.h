@@ -1,3 +1,13 @@
+/**
+ * Author: USACO, Jack Xiang
+ * Date: 2025-10-08
+ * License: Unknown
+ * Source: https://usaco.guide/adv/string-search
+ * Description: Trie - A dictionary of words thats processes words character by character
+ * Time: O(26N)
+ * Status: Unknown
+ */
+
 #pragma once
 
 struct Trie {
